@@ -1,5 +1,5 @@
 # Java_Quiz_Project
-This repository presents a scenario-based JAVA program with ADMIN and STUDENT login features. Where if the user is an ADMIN then he will able to create questions and if the user is a STUDENT then he is able to participate in the quiz exam. After finishing the exam the score will be shown. If anyone will try to log in with invalid credentials then it will show an invalid message. User credential details and quiz questions are stored in two different JSON files.
+A scenario-based Java program with functionality for both ADMIN and STUDENT login is presented in this repository. The user can either generate questions or participate in the quiz exam depending on whether he is a student or an administrator. Once the exam is over, the results will be displayed. An error message will appear if someone attempts to log in using improper credentials. Two distinct JSON files contain the quiz questions and user credentials...
 
 # Technology used:
 1. IntelliJ IDEA
